@@ -41,3 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.content{font-size:2em}
+.section1{background-image:url("../img/stolen.jpeg")}
+.section2{background-image:url("../img/arizona.JPG")}
