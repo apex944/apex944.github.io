@@ -43,5 +43,13 @@ ul.posts li {
 }
 
 .content{font-size:2em}
-.section1{background-image:url("../img/road.jpg")}
+.section1{
+    background-image:url("../img/road.jpg")
+    background-size:contain;
+    background-repeat:no-repeat;
+        }
+
 .section2{background-image:url("../img/laces.jpg")}
+
+background-size: cover;
+
