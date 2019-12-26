@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image:url("../img/road.jpg")
+    background-image:url("/img/road.jpg")
     background-size:cover;
 }
 nav ul, footer ul {
@@ -45,6 +45,7 @@ ul.posts li {
 }
 
 .content{font-size:2em}
+
 .section1{
     background-image:url("/img/road.jpg")
     background-size:cover;
