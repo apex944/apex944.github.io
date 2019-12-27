@@ -1,8 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image:url("/img/road.jpg");
-    background-size:cover;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -48,10 +46,10 @@ ul.posts li {
 
 .section1{
     background-image:url("/img/road.jpg");
-    background-size:cover;
-    background-repeat:no-repeat;
 }
 
 .section2{
     background-image:url("/img/laces.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
 }
