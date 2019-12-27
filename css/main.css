@@ -46,6 +46,8 @@ ul.posts li {
 
 .section1{
     background-image:url("/img/road.jpg");
+    background-size:cover;
+    background-repeat:no-repeat
 }
 
 .section2{
