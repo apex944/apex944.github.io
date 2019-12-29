@@ -44,29 +44,27 @@ ul.posts li {
 
 .content{font-size:2em}
 
-.section1{
+.section1 {
     background-image:url("/img/road.jpg");
     background-size:cover;
     background-repeat:no-repeat
 }
 
-.section2{
+.section2 {
     background-image:url("/img/laces.jpg");
     background-size:cover;
     background-repeat:no-repeat;
 }
 
-.section3{
+.section3 {
     background-image:url("/img/nurburgring_2560x1600.jpg");
     background-size:cover;
     background-repeat:no-repeat;
 }
 
-.blurb{
+.blurb {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    list-style: none;
     font-weight: bold;
-    text-decoration: none;
     color: #999;
 }
