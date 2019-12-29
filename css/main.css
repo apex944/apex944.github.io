@@ -55,3 +55,9 @@ ul.posts li {
     background-size:cover;
     background-repeat:no-repeat;
 }
+
+.section3{
+    background-image:url("/img/nurburgring_2560x1600.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
