@@ -61,3 +61,12 @@ ul.posts li {
     background-size:cover;
     background-repeat:no-repeat;
 }
+
+.blurb{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    text-decoration: none;
+    color: #999;
+}
